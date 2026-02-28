@@ -19,6 +19,7 @@ public class program5 {
 		 Thread.sleep(2000);
 		 driver.findElement(By.name("login")).click();
 		 Thread.sleep(3000);
+		Thread.sleep(3000);
 		
 //               String actualtitle=driver.getTitle();
 //		String expectedtitle="Log in to Facebook";
