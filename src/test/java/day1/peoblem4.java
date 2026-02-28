@@ -28,7 +28,7 @@ public class peoblem4 {
         } else {
             System.out.println("Error message is NOT displayed");
         }
-		
+			 Thread.sleep(5000);
 		 driver.quit();
 	}
 
